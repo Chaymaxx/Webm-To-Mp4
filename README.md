@@ -1,7 +1,5 @@
 # WebM to MP4 Converter
 
-![WebM to MP4 Converter Banner]([https://via.placeholder.com/800x200?text=WebM+to+MP4+Converter](https://drive.google.com/file/d/1RXI1Sp2g1Rz7tFD2AROARh9fTeFLu9pc/view?usp=sharing))
-
 ## 📝 Overview
 
 **WebM to MP4 Converter** is an elegant, cross-platform desktop application that allows you to easily convert WebM video files to the widely supported MP4 format. Built with Python and Tkinter, it provides a seamless conversion experience with a clean, intuitive interface.
