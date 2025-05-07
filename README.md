@@ -62,13 +62,13 @@ For users who prefer not to install Python:
 
 #### Windows
 
-1. Download the `WebmToMp4Converter.exe` from the [executable application](https://github.com/Chaymaxx/webm-to-mp4-converter/executable_app) page
+1. Download the `WebmToMp4Converter.exe` from the [executable application](https://github.com/Chaymaxx/webm-to-mp4-converter/) page
 2. Double-click the executable to run
 3. If Windows SmartScreen appears, click "More info" and then "Run anyway" (The application is safe, but Windows may not recognize the publisher)
 
 #### Linux
 
-1. Download the `WebmToMp4Converter` executable from the [executable application](https://github.com/Chaymaxx/webm-to-mp4-converter/executable_app) page
+1. Download the `WebmToMp4Converter` executable from the [executable application](https://github.com/Chaymaxx/webm-to-mp4-converter/) page
 2. Open a terminal and navigate to the download location
 3. Make the file executable:
    ```bash
