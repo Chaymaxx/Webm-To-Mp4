@@ -5,6 +5,8 @@
 **WebM to MP4 Converter** is an elegant, cross-platform desktop application that allows you to easily convert WebM video files to the widely supported MP4 format. Built with Python and Tkinter, it provides a seamless conversion experience with a clean, intuitive interface.
 
 WebM files are commonly found when downloading videos from certain websites or when working with specific video editing tools. However, MP4 is more universally compatible with media players, editing software, and mobile devices. This converter bridges that gap with just a few clicks.
+## Demo
+https://github.com/user-attachments/assets/90df7868-f941-48fd-8a54-6eecffc8104e
 
 ## ✨ Features
 
@@ -60,13 +62,13 @@ For users who prefer not to install Python:
 
 #### Windows
 
-1. Download the `WebmToMp4Converter.exe` from the [Releases](https://github.com/Chaymaxx/webm-to-mp4-converter/executable_app) page
+1. Download the `WebmToMp4Converter.exe` from the [executable application](https://github.com/Chaymaxx/webm-to-mp4-converter/executable_app) page
 2. Double-click the executable to run
 3. If Windows SmartScreen appears, click "More info" and then "Run anyway" (The application is safe, but Windows may not recognize the publisher)
 
 #### Linux
 
-1. Download the `WebmToMp4Converter` executable from the [Releases](https://github.com/Chaymaxx/webm-to-mp4-converter/executable_app) page
+1. Download the `WebmToMp4Converter` executable from the [executable application](https://github.com/Chaymaxx/webm-to-mp4-converter/executable_app) page
 2. Open a terminal and navigate to the download location
 3. Make the file executable:
    ```bash
