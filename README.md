@@ -153,6 +153,6 @@ result = subprocess.run(
 )
 ```
 
-Made with ❤️ by [Chayma Alabdi]
+Made with ❤ by [Chayma Alabdi]
 
 *Last updated: May 7, 2025*
